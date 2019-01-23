@@ -1,0 +1,12 @@
+i = 0 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[0] = 0
+i = 1 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[1] = 0
+i = 2 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[2] = 0
+i = 3 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[3] = 0
+i = 4 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[4] = 0
+i = 5 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[5] = 0
+i = 6 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[6] = 0
+i = 7 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[7] = 0
+i = 8 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[8] = 0
+i = 9 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[9] = 0
+i = 10 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[10] = 0
+i = 11 | caractActuel = 48  |   CaractActuel - 48 = 0  | tab[11] = 0

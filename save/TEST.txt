@@ -1,0 +1,4 @@
+position 0 ; cases possibles : 0 ; H: 700 , L : 1200 ; pos X : 697 ; pos Y : 354 => k = 3
+position 1 ; cases possibles : 345 ; H: 700 , L : 1200 ; pos X : 697 ; pos Y : 354 => k = 3
+position 2 ; cases possibles : 0 ; H: 700 , L : 1200 ; pos X : 697 ; pos Y : 354 => k = 3
+position 3 ; cases possibles : 502 ; H: 700 , L : 1200 ; pos X : 697 ; pos Y : 354 => k = 3
